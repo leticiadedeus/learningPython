@@ -1,4 +1,4 @@
-n = int(input('choose the multiplication table you want to see'))
+n = int(input('choose the multiplication table between 1, 9 you want to see'))
 n1 = n * 1
 n2 = n * 2
 n3 = n * 3
