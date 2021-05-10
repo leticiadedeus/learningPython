@@ -1,1 +1,12 @@
-This repository will gather my 2021 may exercices and hackerrank challenges
+# May 2021 Repository
+
+- Learning basic python
+- Hackerrank python challenges
+- Simple python exercises
+
+### What I saw this month
+
+- Some Python library and modules
+- If, Else, Elif
+- Manipulating strings
+- Kinda of Tkinter
