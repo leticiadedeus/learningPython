@@ -9,5 +9,6 @@
 - Some Python library and modules
 - If, Else, Elif
 - Manipulating strings
-- For 
+- For
+- While
 - Kinda of Tkinter
