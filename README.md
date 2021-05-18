@@ -11,6 +11,6 @@
 - Manipulating strings
 - For
 - While
-- Creating a infite loop w while
+- Creating a infinite loop w while
 - Stopping the loop w break
 - Kinda of Tkinter
