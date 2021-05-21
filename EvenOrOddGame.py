@@ -11,15 +11,15 @@ while True:
     nf = nU + nPc
     if nf % 2 == 0:
         if eoo == 'e':
-            print('USER IS THE WINNER')
+            print(f'Pc played with {nPc} - USER IS THE WINNER')
             c += 1
         else:
-            print(f'PC IS THE WINNER\nGAME OVER - You won {c} times')
+            print(f'Pc played with {nPc} - PC IS THE WINNER\nGAME OVER - You won {c} times')
             break
     else:
         if eoo == 'o':
-            print('USER IS THE WINNER')
+            print(f'Pc played with {nPc} - USER IS THE WINNER')
             c += 1
         else:
-            print(f'PC IS THE WINNER\nGAME OVER - You won {c} times')
+            print(f'Pc played with {nPc} - PC IS THE WINNER\nGAME OVER - You won {c} times')
             break
