@@ -1,5 +1,4 @@
 import random
-listEoO = ['e', 'o']
 print('Lets play EVEN or ODD')
 print('-' * 30)
 c = 0
@@ -8,7 +7,6 @@ while True:
     print('-' * 30)
     nU = int(input('What number do you want to play? '))
     print('-' * 30)
-    eooP = random.choice(listEoO)
     nPc = random.randint(0, 10)
     nf = nU + nPc
     if nf % 2 == 0:

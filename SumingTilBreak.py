@@ -1,4 +1,4 @@
-c = s = n = 0
+c = s = 0
 while True:
     n = int(input('insert the number you want to sum\n'
                   'if you want to stop, insert 999: '))
