@@ -1,10 +1,10 @@
-# May 2021 Repository
+# Learing Python Repository
 
 - Learning basic python
 - Hackerrank python challenges
 - Simple python exercises
 
-### What I saw this month
+## What  exacly I am learning and doing
 
 - Some Python library and modules
 - If, Else, Elif
