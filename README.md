@@ -13,4 +13,7 @@
 - While
 - Creating a infinite loop w while
 - Stopping the loop w break
+- Tuples
+- Lists
+- Lists, tuples and string slicing, etc
 - Kinda of Tkinter
