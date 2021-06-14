@@ -17,4 +17,5 @@
 - Lists
 - Dictionary
 - Lists, tuples and string slicing, etc
+- Functions
 - Kinda of Tkinter
